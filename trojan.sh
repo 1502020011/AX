@@ -25,7 +25,7 @@ cat <<EOF > ~/config.json
                 "decryption": "none"
             },
             "streamSettings": {
-                "network": "ws",
+                "network": "tcp",
                 "security": "none"
             }
         }
